@@ -1,0 +1,20 @@
+#Licence
+---------------------------------
+Copyright Disclaimer: - 
+Under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such as criticism, comment, news reporting, teaching, scholarship and research. 
+Fair use is a use permitted by copyright statues that might otherwise be infringing. 
+Non profit, educational or personal use tips the balance in favor of FAIR USE.
+
+---------------------------------
+Profile Disclaimer - HarshSri0711 is the Github Developer
+Programming & Educational to Developers
+Small scale Projects, Repositories, Technical Suggestions, and Debugging.
+
+---------------------------------
+HarshSri0711 uses Self made, Cloned Repositories, Copied code and Adopted codes about the programming and its Development, Designing and Analysis, Debugging and Cloning, 
+but all under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such as criticism, comment, news reporting, teaching, scholarship and research.
+
+---------------------------------
+Socials: 
+○ Instagram @harsh_shri0711
+○ GitHub https://github.com/HarshShri0711
