@@ -1,7 +1,7 @@
 # School Management System
 ---------------------------------
 DBMS Project
-Tkinter,TKCalender, SQLite3 & Python
+Using Tkinter,TKCalender, SQLite3 & Python
 
 ---------------------------------
 Description: 
